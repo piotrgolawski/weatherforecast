@@ -3,7 +3,7 @@ My name is Piotr Goławski and this project is made because of skill presentatio
 
 Website communicates with openweathermap api and fetches available weather data for next five days, including today.
 
-Actual website: [weather forecast](https://pg-weather-forecast.herokuapp.com/){:target="_blank"}
+Actual website: [weather forecast](https://pg-weather-forecast.herokuapp.com/)
 
 ### Usage
 The first page is empty, you have to type city in the navbar and click search or click "Get forecast by my position" (and allow to do that) to fetch forecast automatically. 
